@@ -1,1 +1,1 @@
-Readme for Sales Dashboard.
+Readme for Sales Dashboard
